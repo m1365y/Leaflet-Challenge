@@ -22,7 +22,4 @@ Part 1: Create the Earthquake Visualization
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
 
-Part 1: Create the Earthquake Visualization
-
-https://static.bc-edx.com/data/dl-1-2/m15/lms/img/2-BasicMap.jpg
 
